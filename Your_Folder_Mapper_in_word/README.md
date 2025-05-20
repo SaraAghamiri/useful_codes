@@ -25,7 +25,7 @@ import os
 from docx import Document
 
 #=== CONFIGURATION ===
-# Set this to the folder you want to analyze
+#Set this to the folder you want to analyze
 base_path = '/yor directory'  # or '.' if already in folder
 output_docx = 'folder_structure.docx'
 
