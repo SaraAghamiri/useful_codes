@@ -1,5 +1,5 @@
-#🧠 What problem does this code solve?
-#Imagine you have a giant digital cabinet (a folder) full of other folders and files — kind of like a filing cabinet full of drawers, each with papers and more folders inside.
+🧠 What problem does this code solve?
+Imagine you have a giant digital cabinet (a folder) full of other folders and files — kind of like a filing cabinet full of drawers, each with papers and more folders inside.
 #📂 Problem:
 # It’s hard to see everything inside — all the folders, subfolders, and files — especially if it’s really big. You’d have to open each folder one by one to figure out what’s inside.
 #✅ What this code does:
