@@ -14,7 +14,7 @@
 
 
 # cd to your directory
----------
+#---------
 #bash:
 #nano file.py
 
