@@ -14,3 +14,20 @@ Add content to the file (or leave it blank if it’s a placeholder).
 Scroll down and click "Commit new file".
 
 GitHub will automatically create the folder (myfolder) and put the file inside it.
+
+
+
+✅ Method 2: Create a folder locally and push to GitHub
+On your local computer:
+
+bash
+Copy
+Edit
+mkdir myfolder
+cd myfolder
+echo "placeholder" > README.md
+cd ..
+git add myfolder/README.md
+git commit -m "Add folder with README"
+git push origin main  # or your current branch
+This will create and push the folder and file to GitHub.
